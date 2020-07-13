@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="https://fastapi.tiangolo.com"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI"></a>
 </p>
@@ -447,3 +448,6 @@ You can install all of these with `pip install fastapi[all]`.
 ## License
 
 This project is licensed under the terms of the MIT license.
+=======
+# fastapi
+>>>>>>> 1da86e3976a949bf1d919e39ab7b1b48f5823015
